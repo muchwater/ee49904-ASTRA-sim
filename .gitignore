@@ -6,6 +6,4 @@ venv/
 *.log
 *.gz
 # run outputs — keep your own results in your team's repository, not here
-llm-netops-verifier/starter/runs/
 results*.csv
-*.npz
